@@ -43,5 +43,7 @@ public class Employee {
 	
 	@Column(name = "OTP_GeneratedTiming")
 	private LocalDateTime otpGeneratedTiming;
+	
+	
 
 }
